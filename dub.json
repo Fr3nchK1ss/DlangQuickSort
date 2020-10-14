@@ -4,5 +4,7 @@
 	],
 	"copyright": "Copyright © 2020, ludo456",
 	"description": "Different quicksort implementations",
-	"name": "quicksort"
+	"name": "quicksort",
+	"targetType": "library",
+	"targetPath": "lib"
 }
